@@ -1,0 +1,1069 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.867; Version 2004; 64bit' Language: 'en' Physical Memory: 8042 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Lukas/Desktop/Unity game/zaidimas
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62168
+Successfully changed project path to: C:/Users/Lukas/Desktop/Unity game/zaidimas
+C:/Users/Lukas/Desktop/Unity game/zaidimas
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 75.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Lukas/Desktop/Unity game/zaidimas/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce MX130 (ID=0x174d)
+    Vendor:   
+    VRAM:     2010 MB
+    Driver:   27.21.14.6140
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56708
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002189 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 80.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.673 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002558 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 75.73 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.438 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 0.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3082 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.2 MB.
+System memory in use after: 133.2 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 3522.
+Total: 2.951700 ms (FindLiveObjects: 0.339400 ms CreateObjectMapping: 0.158600 ms MarkObjects: 2.285100 ms  DeleteObjects: 0.167100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Vilans
+  artifactKey: Guid(ede9e2f8683310349b47a0c0e93ec4f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vilans using Guid(ede9e2f8683310349b47a0c0e93ec4f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad6155f61a9accdbd1f9b0a589a6430b') in 0.009805 seconds
+  Import took 0.016111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.656581 seconds.
+  path: Assets/Vilans/20200325102359covid-removebg-preview-removebg-preview.png
+  artifactKey: Guid(4f7356b4bec5902478d2421665b511d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vilans/20200325102359covid-removebg-preview-removebg-preview.png using Guid(4f7356b4bec5902478d2421665b511d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '377ededd6f881a93e1a7e91e56be7511') in 0.285528 seconds
+  Import took 0.296271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Vilans/novelcoronavirus-optimized-removebg-preview.png
+  artifactKey: Guid(3669efa7e7a90d14c97855f8f78e6a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vilans/novelcoronavirus-optimized-removebg-preview.png using Guid(3669efa7e7a90d14c97855f8f78e6a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c968f4833d97df5a89a7be0a0187ab3') in 0.038614 seconds
+  Import took 0.051569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Vilans/qHWAzx7UnU82TehtWTNdKM-480-80-removebg-preview-removebg-preview.png
+  artifactKey: Guid(8a35a43c67469674ab342ab989596b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vilans/qHWAzx7UnU82TehtWTNdKM-480-80-removebg-preview-removebg-preview.png using Guid(8a35a43c67469674ab342ab989596b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0fc7fa2038426b328cc4b749283daac') in 0.051378 seconds
+  Import took 0.063196 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004422 seconds.
+  path: Assets/Vilans/qHWAzx7UnU82TehtWTNdKM-480-80-removebg-preview-removebg-preview.png
+  artifactKey: Guid(8a35a43c67469674ab342ab989596b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vilans/qHWAzx7UnU82TehtWTNdKM-480-80-removebg-preview-removebg-preview.png using Guid(8a35a43c67469674ab342ab989596b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0fc7fa2038426b328cc4b749283daac') in 0.025457 seconds
+  Import took 0.037026 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 107.972732 seconds.
+  path: Assets/Vilans/lvl1.png
+  artifactKey: Guid(3669efa7e7a90d14c97855f8f78e6a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vilans/lvl1.png using Guid(3669efa7e7a90d14c97855f8f78e6a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f5efc42b6311f0dd7ab042f3e7e992c') in 0.043856 seconds
+  Import took 0.057841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.093701 seconds.
+  path: Assets/Vilans/lvl2.png
+  artifactKey: Guid(8a35a43c67469674ab342ab989596b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vilans/lvl2.png using Guid(8a35a43c67469674ab342ab989596b43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '313d9619706da59aab6a5cc5e8d57f1a') in 0.035941 seconds
+  Import took 0.048090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.790776 seconds.
+  path: Assets/Vilans/lvl3.png
+  artifactKey: Guid(4f7356b4bec5902478d2421665b511d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vilans/lvl3.png using Guid(4f7356b4bec5902478d2421665b511d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b1ce8287bfc425807d244f87cb2c866') in 0.031004 seconds
+  Import took 0.039054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 984.666897 seconds.
+  path: Assets/Vilans/3.png
+  artifactKey: Guid(d8a04f776569ace4fa3c235b74e57d77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vilans/3.png using Guid(d8a04f776569ace4fa3c235b74e57d77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ac42f155235a3d15b9c3280799313d3') in 0.044233 seconds
+  Import took 0.053629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 203.940056 seconds.
+  path: Assets/Tiles/tileset.png
+  artifactKey: Guid(ece256e1b700dba41b7d420810d6495a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/tileset.png using Guid(ece256e1b700dba41b7d420810d6495a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9df157b5105caa4e4208a014ef4e305') in 0.046927 seconds
+  Import took 0.062629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.932459 seconds.
+  path: Assets/Tiles/tileset.png
+  artifactKey: Guid(ece256e1b700dba41b7d420810d6495a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/tileset.png using Guid(ece256e1b700dba41b7d420810d6495a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be5a1b03cd465ce801b3a67befee37b8') in 0.024532 seconds
+  Import took 0.034375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026837 seconds.
+  path: Assets/Tiles/tileset.png
+  artifactKey: Guid(ece256e1b700dba41b7d420810d6495a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/tileset.png using Guid(ece256e1b700dba41b7d420810d6495a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be5a1b03cd465ce801b3a67befee37b8') in 0.034178 seconds
+  Import took 0.046034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 163.991189 seconds.
+  path: Assets/Tiles/tileset.png
+  artifactKey: Guid(ece256e1b700dba41b7d420810d6495a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/tileset.png using Guid(ece256e1b700dba41b7d420810d6495a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f40c69f38dbf0b8c00cc2d91c3cf4b0') in 0.039351 seconds
+  Import took 0.088640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 298.007073 seconds.
+  path: Assets/Tiles/OJ5yAu.png
+  artifactKey: Guid(1ef3f9bf00882d1408f99b65477fa638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/OJ5yAu.png using Guid(1ef3f9bf00882d1408f99b65477fa638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16698982addadc53b49edade6df0d2fa') in 0.061439 seconds
+  Import took 0.076092 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 96.274390 seconds.
+  path: Assets/Tiles/puzzle_tileset.png
+  artifactKey: Guid(e184aa04113e5154f9020cc7453d3440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/puzzle_tileset.png using Guid(e184aa04113e5154f9020cc7453d3440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c01096f7c27ef444c2659618d74b40f6') in 0.035065 seconds
+  Import took 0.051472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005564 seconds.
+  path: Assets/Tiles/puzzle_tileset.png
+  artifactKey: Guid(e184aa04113e5154f9020cc7453d3440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/puzzle_tileset.png using Guid(e184aa04113e5154f9020cc7453d3440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c01096f7c27ef444c2659618d74b40f6') in 0.021715 seconds
+  Import took 0.029839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.300275 seconds.
+  path: Assets/Tiles/puzzle_tileset.png
+  artifactKey: Guid(e184aa04113e5154f9020cc7453d3440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/puzzle_tileset.png using Guid(e184aa04113e5154f9020cc7453d3440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0235b486ba5b7ba745855c4db2a5cc57') in 0.021502 seconds
+  Import took 0.031020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.681993 seconds.
+  path: Assets/Tiles/puzzle_tileset.png
+  artifactKey: Guid(e184aa04113e5154f9020cc7453d3440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/puzzle_tileset.png using Guid(e184aa04113e5154f9020cc7453d3440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9558eccbe444e7a056649cbdb436b80') in 0.264711 seconds
+  Import took 0.278534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 100.538269 seconds.
+  path: Assets/Tiles/Hospital
+  artifactKey: Guid(f6eaf10a10011224bab9bde1b7f389fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Hospital using Guid(f6eaf10a10011224bab9bde1b7f389fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9080ed90db4ac5fdd8f355758513007') in 0.007825 seconds
+  Import took 0.019560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000738 seconds.
+  path: Assets/Tiles/Hospital
+  artifactKey: Guid(f6eaf10a10011224bab9bde1b7f389fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Hospital using Guid(f6eaf10a10011224bab9bde1b7f389fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9080ed90db4ac5fdd8f355758513007') in 0.004569 seconds
+  Import took 0.013436 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.068323 seconds.
+  path: Assets/Tiles/Hospital/Hospital.prefab
+  artifactKey: Guid(7bf3543c3ecc6914b9ada151d54062f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/Hospital/Hospital.prefab using Guid(7bf3543c3ecc6914b9ada151d54062f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3894910f9a8cee0c6970fd814e3b2ea4') in 0.030273 seconds
+  Import took 0.040519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2060.804008 seconds.
+  path: Assets/Details/Untitled-1.png
+  artifactKey: Guid(6a059ed6fe364ba41b7ac5e40f91b63a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Details/Untitled-1.png using Guid(6a059ed6fe364ba41b7ac5e40f91b63a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afa9cf88c61945b163f99b1b2f49dc80') in 0.026617 seconds
+  Import took 0.046169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.715634 seconds.
+  path: Assets/Details/dooors.png
+  artifactKey: Guid(6a059ed6fe364ba41b7ac5e40f91b63a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Details/dooors.png using Guid(6a059ed6fe364ba41b7ac5e40f91b63a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68cafb6c954819f8a1d56e7e3ec43143') in 0.020919 seconds
+  Import took 0.029427 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 943.828265 seconds.
+  path: Assets/Details/lempa.png
+  artifactKey: Guid(7e5d3ecb3007d2b4eb269bec5b09a0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Details/lempa.png using Guid(7e5d3ecb3007d2b4eb269bec5b09a0d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e77a9c9a2a3f25de5c8038b5d2f53bc6') in 0.034638 seconds
+  Import took 0.044112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 492.445818 seconds.
+  path: Assets/Details/toilet-tissue-paper-roll-icon-illustration-healthcare-medical-icon-concept-isolated_138676-881-removebg-preview.png
+  artifactKey: Guid(72f46056de6f44b41a8acdf37a391eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Details/toilet-tissue-paper-roll-icon-illustration-healthcare-medical-icon-concept-isolated_138676-881-removebg-preview.png using Guid(72f46056de6f44b41a8acdf37a391eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c275271345da662c0115f34ac66ac087') in 0.031295 seconds
+  Import took 0.039930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008119 seconds.
+  path: Assets/Details/toilet-tissue-paper-roll-icon-illustration-healthcare-medical-icon-concept-isolated_138676-881-removebg-preview.png
+  artifactKey: Guid(72f46056de6f44b41a8acdf37a391eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Details/toilet-tissue-paper-roll-icon-illustration-healthcare-medical-icon-concept-isolated_138676-881-removebg-preview.png using Guid(72f46056de6f44b41a8acdf37a391eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c275271345da662c0115f34ac66ac087') in 0.039408 seconds
+  Import took 0.049574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.468093 seconds.
+  path: Assets/Tiles/TooCubeForest/backgrounds/BG_cave2_1024.png
+  artifactKey: Guid(9c82b6ad87c042348aacc81b6fadcc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/backgrounds/BG_cave2_1024.png using Guid(9c82b6ad87c042348aacc81b6fadcc87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74c25e9a7c62bf83920d21ae418205ad') in 0.031658 seconds
+  Import took 0.043329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Player/Player/Sprites/Environments/BrownHouse.png
+  artifactKey: Guid(3f497339bb80b8c4b8186294cf4a855a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Player/Sprites/Environments/BrownHouse.png using Guid(3f497339bb80b8c4b8186294cf4a855a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ab6eb14778b711eb13d7da4b05b5461') in 0.044037 seconds
+  Import took 0.055180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/Player/Player/Sprites/Humans/Ordinary/BoredOrdinaryAnim.png
+  artifactKey: Guid(6f9441bd93ab896438a93542cea44fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Player/Sprites/Humans/Ordinary/BoredOrdinaryAnim.png using Guid(6f9441bd93ab896438a93542cea44fb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7783ba216e9e9927be34a29a60003d38') in 0.077290 seconds
+  Import took 0.085372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Tiles/TooCubeForest/backgrounds/BG_cave_1024.png
+  artifactKey: Guid(04aa30e7bae8e5c4bb6718fe6142845d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/backgrounds/BG_cave_1024.png using Guid(04aa30e7bae8e5c4bb6718fe6142845d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13384277a9ee638631c07be91bdd2469') in 0.056734 seconds
+  Import took 0.068574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/Tiles/TooCubeForest/backgrounds/BG_mountains_night_1024.png
+  artifactKey: Guid(a0c207a4ed112f043ad721e46b8cdd26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/backgrounds/BG_mountains_night_1024.png using Guid(a0c207a4ed112f043ad721e46b8cdd26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf3820372af32ff98b32bad065bb2239') in 0.053868 seconds
+  Import took 0.062215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/Tiles/TooCubeForest/backgrounds/BG_volcano_1024.png
+  artifactKey: Guid(36097b5693c0714478ffc6273a352644) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/backgrounds/BG_volcano_1024.png using Guid(36097b5693c0714478ffc6273a352644) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '916dfecee957906c6bd0526b14982947') in 0.063499 seconds
+  Import took 0.072920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Tiles/TooCubeForest/backgrounds/BG_mountains_night2_1024.png
+  artifactKey: Guid(195dc6169a79d9b40a580b28beadfec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/backgrounds/BG_mountains_night2_1024.png using Guid(195dc6169a79d9b40a580b28beadfec9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cddfac79b6c1a6c290958a2df452da5') in 0.057843 seconds
+  Import took 0.069251 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/Tiles/TooCubeForest/backgrounds/BG_desert_sunset_1024.png
+  artifactKey: Guid(2d90c333e68fff641828864d6667fda6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/backgrounds/BG_desert_sunset_1024.png using Guid(2d90c333e68fff641828864d6667fda6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2164f69a0dc8698c76ce5046871b929c') in 0.065101 seconds
+  Import took 0.074333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Tiles/TooCubeForest/backgrounds/BG_mountains_sunset2_1024.png
+  artifactKey: Guid(6265ba6951791254e938e2f05b5ba295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/backgrounds/BG_mountains_sunset2_1024.png using Guid(6265ba6951791254e938e2f05b5ba295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c25e3f804da36b057a288d19e7ceb8f') in 0.046569 seconds
+  Import took 0.056037 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Tiles/TooCubeForest/backgrounds/BG_desert_noon_1024.png
+  artifactKey: Guid(a598f16cb39deca46afe562898e1deec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/backgrounds/BG_desert_noon_1024.png using Guid(a598f16cb39deca46afe562898e1deec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bc02981a96dead37a364898e97a79ec') in 0.048880 seconds
+  Import took 0.058781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/Player/Player/Sprites/Humans/General/BoredGeneralAnim.png
+  artifactKey: Guid(2fd54fa2442f30242b3cb22da9e6b0be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Player/Sprites/Humans/General/BoredGeneralAnim.png using Guid(2fd54fa2442f30242b3cb22da9e6b0be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b81bf63a7dddbf18a92b6c4a1d984064') in 0.076448 seconds
+  Import took 0.086656 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Tiles/TooCubeForest/backgrounds/BG_desert_night2_1024.png
+  artifactKey: Guid(6a8a8fb6953cc4f45a25c7b27f799696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/backgrounds/BG_desert_night2_1024.png using Guid(6a8a8fb6953cc4f45a25c7b27f799696) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a42dded4ee718a0415a0e93a77ff283') in 0.038368 seconds
+  Import took 0.047160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Tiles/TooCubeForest/backgrounds/BG_desert_night_1024.png
+  artifactKey: Guid(2f5578e12e77c8e4688c963de6419e99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/backgrounds/BG_desert_night_1024.png using Guid(2f5578e12e77c8e4688c963de6419e99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e32e415a3bb741e2d1af484d59017e5') in 0.051968 seconds
+  Import took 0.061829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Tiles/TooCubeForest/backgrounds/BG_mountains_noon_1024.png
+  artifactKey: Guid(9868806c4e6cbac43b1fe129e8d1e8e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/backgrounds/BG_mountains_noon_1024.png using Guid(9868806c4e6cbac43b1fe129e8d1e8e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '360abc36ea22f933bad024c1745bf9c3') in 0.060708 seconds
+  Import took 0.074056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Tiles/TooCubeForest/backgrounds/BG_desert_noon2_1024.png
+  artifactKey: Guid(a1238f3300f40aa41934c025c0d9a8aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/backgrounds/BG_desert_noon2_1024.png using Guid(a1238f3300f40aa41934c025c0d9a8aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '334296628797432b9762f1609beaf127') in 0.065162 seconds
+  Import took 0.078364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Tiles/TooCubeForest/backgrounds/BG_mountains_noon2_1024.png
+  artifactKey: Guid(cfae008b2060f7249b9a572ecbd3b4eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/backgrounds/BG_mountains_noon2_1024.png using Guid(cfae008b2060f7249b9a572ecbd3b4eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35416551c7fa15334e839acf7b29a650') in 0.059096 seconds
+  Import took 0.071914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Player/Player/Sprites/Environments/Environments128x128.png
+  artifactKey: Guid(1a4caf2dc85c4a542961b8aa2131535a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Player/Sprites/Environments/Environments128x128.png using Guid(1a4caf2dc85c4a542961b8aa2131535a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18c975f2bdfa77b29f6a58508ec24973') in 0.282531 seconds
+  Import took 0.294136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000578 seconds.
+  path: Assets/Tiles/TooCubeForest/backgrounds/BG_mountains_sunset_1024.png
+  artifactKey: Guid(b147266f8e2d8e849ad06136e78d4e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/backgrounds/BG_mountains_sunset_1024.png using Guid(b147266f8e2d8e849ad06136e78d4e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2ce4f5cdc86b0a4213ebc75a0d576a5') in 0.036944 seconds
+  Import took 0.048204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000558 seconds.
+  path: Assets/Tiles/TooCubeForest/backgrounds/BG_volcano2_1024.png
+  artifactKey: Guid(390ca6124ba223c488d39412b0282e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/backgrounds/BG_volcano2_1024.png using Guid(390ca6124ba223c488d39412b0282e59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '076a48908bf2a53cb2f0ff714eee43d8') in 0.042089 seconds
+  Import took 0.052374 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Player/Player/Sprites/Environments/BrownHouse_x2.png
+  artifactKey: Guid(af4c0bd934c20054ebac80a682f4a28e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Player/Sprites/Environments/BrownHouse_x2.png using Guid(af4c0bd934c20054ebac80a682f4a28e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa1a3d2de42cf883ad77e6f83cbed226') in 0.043957 seconds
+  Import took 0.055248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Tiles/TooCubeForest/backgrounds/BG_desert_sunset2_1024.png
+  artifactKey: Guid(1e2b7811d7a677c4bb1497bfa962dc43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/backgrounds/BG_desert_sunset2_1024.png using Guid(1e2b7811d7a677c4bb1497bfa962dc43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5b6376b87f6ea94302064dcc65b3ef7') in 0.054432 seconds
+  Import took 0.068470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.865210 seconds.
+  path: Assets/Player/Player/Sprites/Environments/Environments256x256.png
+  artifactKey: Guid(6aa8d45f947871441bdc84217f943992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Player/Sprites/Environments/Environments256x256.png using Guid(6aa8d45f947871441bdc84217f943992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '451aef86dc00334d86ba32984aa592c4') in 0.178031 seconds
+  Import took 0.186258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001252 seconds.
+  path: Assets/Player/Player/Sprites/Environments/Environments256x256.png
+  artifactKey: Guid(6aa8d45f947871441bdc84217f943992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Player/Sprites/Environments/Environments256x256.png using Guid(6aa8d45f947871441bdc84217f943992) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '451aef86dc00334d86ba32984aa592c4') in 0.183413 seconds
+  Import took 0.191945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.592813 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_deco_covers(summer).png
+  artifactKey: Guid(34f1ec7fa6e658548a3e762e72534378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_deco_covers(summer).png using Guid(34f1ec7fa6e658548a3e762e72534378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b665c3f6e53964c04089238cdbd07c60') in 0.032437 seconds
+  Import took 0.039569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_deco_fragileBlocks_128px.png
+  artifactKey: Guid(de3954785eee0014bad73f8115856248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_deco_fragileBlocks_128px.png using Guid(de3954785eee0014bad73f8115856248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49363c740501730773ebe2c63595b66c') in 0.042463 seconds
+  Import took 0.050108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000562 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_deco_leaves(fall)02_128px.png
+  artifactKey: Guid(0a8f4ef9aea036048a18663328e8e57b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_deco_leaves(fall)02_128px.png using Guid(0a8f4ef9aea036048a18663328e8e57b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2222a340c0f2597586525ea7dad7a428') in 0.070744 seconds
+  Import took 0.080935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_deco_fragileBlocks_128px.png
+  artifactKey: Guid(de3954785eee0014bad73f8115856248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_deco_fragileBlocks_128px.png using Guid(de3954785eee0014bad73f8115856248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49363c740501730773ebe2c63595b66c') in 0.046467 seconds
+  Import took 0.054636 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_deco_leaves(winter)01_128px.png
+  artifactKey: Guid(83c2725403972d94a913c6549e48b03b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_deco_leaves(winter)01_128px.png using Guid(83c2725403972d94a913c6549e48b03b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd167830e160454249a114b1e9794e2e5') in 0.064328 seconds
+  Import took 0.073793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_deco_leaves(fall)01_128px.png
+  artifactKey: Guid(4d5cf8230d2ac284aa690adc5209e88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_deco_leaves(fall)01_128px.png using Guid(4d5cf8230d2ac284aa690adc5209e88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f17bb8ad96d8ba96d916e56239963de') in 0.066396 seconds
+  Import took 0.073286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000409 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_deco_leaves(summer)01_128px.png
+  artifactKey: Guid(78ba6269d74827a418526a8079d870d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_deco_leaves(summer)01_128px.png using Guid(78ba6269d74827a418526a8079d870d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '417c6c8bb9e4ba4f6cf2db7178d17330') in 0.095789 seconds
+  Import took 0.105021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000386 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_deco_plants01.png
+  artifactKey: Guid(7481392ce718e3145b34ba907c677c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_deco_plants01.png using Guid(7481392ce718e3145b34ba907c677c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65ce97f9b5068f52e0588abeb7fadebf') in 0.077933 seconds
+  Import took 0.089612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_deco_signs.png
+  artifactKey: Guid(ebe88550c55b05e43bee2efaa0c0611d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_deco_signs.png using Guid(ebe88550c55b05e43bee2efaa0c0611d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63d7c7ad3d713cff7b6d5f9fcc2dc15f') in 0.116585 seconds
+  Import took 0.129667 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_deco_stones03_128px.png
+  artifactKey: Guid(7c690a34fba9c994b842ff38ee788cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_deco_stones03_128px.png using Guid(7c690a34fba9c994b842ff38ee788cd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a17c8fc6c4b2ca9e0858fe24f9b2c1be') in 0.054113 seconds
+  Import took 0.061841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_deco_woodenThorns.png
+  artifactKey: Guid(2776dd9c65d95e448a0c39ae0d26639a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_deco_woodenThorns.png using Guid(2776dd9c65d95e448a0c39ae0d26639a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02c816038de92f933e243f37101323f5') in 0.110574 seconds
+  Import took 0.117876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_deco_plants01.png
+  artifactKey: Guid(7481392ce718e3145b34ba907c677c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_deco_plants01.png using Guid(7481392ce718e3145b34ba907c677c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65ce97f9b5068f52e0588abeb7fadebf') in 0.071126 seconds
+  Import took 0.078187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000294 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_deco_trees.png
+  artifactKey: Guid(9a24dfc21c315a14786e932f86148da3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_deco_trees.png using Guid(9a24dfc21c315a14786e932f86148da3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6eb6ffc9bf5181ddb3a3cf82c2cfcfb8') in 0.068026 seconds
+  Import took 0.075961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_deco_leaves(fall)01_128px.png
+  artifactKey: Guid(4d5cf8230d2ac284aa690adc5209e88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_deco_leaves(fall)01_128px.png using Guid(4d5cf8230d2ac284aa690adc5209e88f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f17bb8ad96d8ba96d916e56239963de') in 0.057541 seconds
+  Import took 0.065150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000349 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_blue_128px.png
+  artifactKey: Guid(cd93a069444a8814fbaca267e5baea1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_blue_128px.png using Guid(cd93a069444a8814fbaca267e5baea1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04cb88f740e8d8fbb4406788046c3cff') in 0.059344 seconds
+  Import took 0.073303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_dirt_128px.png
+  artifactKey: Guid(94b9aae5592f1fa48a1f78e8ed6f50f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_dirt_128px.png using Guid(94b9aae5592f1fa48a1f78e8ed6f50f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7d4f6586a6f8c68ad40cec58b6c3ddd') in 0.058500 seconds
+  Import took 0.065558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_dirt_grass(spring)_128px.png
+  artifactKey: Guid(c3243c0bd9e831843b08e914337cc893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_dirt_grass(spring)_128px.png using Guid(c3243c0bd9e831843b08e914337cc893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22f7c2ef24d115e4f13159b4b53afc44') in 0.108172 seconds
+  Import took 0.126209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000474 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_deco_woodenWalls_platforms.png
+  artifactKey: Guid(84632f772d45a04488e6c5318eb12242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_deco_woodenWalls_platforms.png using Guid(84632f772d45a04488e6c5318eb12242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbfdf4134d9e2d0a2b1d987175886b9a') in 0.074123 seconds
+  Import took 0.099615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000374 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_deco_stones01_128px.png
+  artifactKey: Guid(f1aa90219da0547419e1fbcd86a49f04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_deco_stones01_128px.png using Guid(f1aa90219da0547419e1fbcd86a49f04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb49ec04ab63475dbc23a4ee664fea8f') in 0.072793 seconds
+  Import took 0.097088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_deco_stones02_128px.png
+  artifactKey: Guid(c05fcb377b505b949b789c771c05f821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_deco_stones02_128px.png using Guid(c05fcb377b505b949b789c771c05f821) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a90121a695649d00a4bf6349f9af1ff') in 0.061300 seconds
+  Import took 0.071535 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_dirt_ice_128px.png
+  artifactKey: Guid(1144878851ce4fc4db72398360fdf212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_dirt_ice_128px.png using Guid(1144878851ce4fc4db72398360fdf212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00edcf4285bbd5795236ec7d23e52fab') in 0.096974 seconds
+  Import took 0.105731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_gray_128px.png
+  artifactKey: Guid(b00b9ff8e2a7f494c9679b0b59c599bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_gray_128px.png using Guid(b00b9ff8e2a7f494c9679b0b59c599bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4b0c855e9d71da66edc0ca011ee1db7') in 0.067790 seconds
+  Import took 0.077384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000522 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_gray_snow_128px.png
+  artifactKey: Guid(cfbe4334094bdd24a88ea7f9e1aff304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_gray_snow_128px.png using Guid(cfbe4334094bdd24a88ea7f9e1aff304) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '067845521a43d9a67b1d93be76f7d627') in 0.076085 seconds
+  Import took 0.084118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_gray_ice_128px.png
+  artifactKey: Guid(8529cced46fbd1e429d3bd64cb6d7e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_gray_ice_128px.png using Guid(8529cced46fbd1e429d3bd64cb6d7e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd06472267808bef4c0bc1a283d1311ed') in 0.057332 seconds
+  Import took 0.063597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_dirt_snow_128px.png
+  artifactKey: Guid(3dcb8cd2d44a6f649a53a238011ec757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_dirt_snow_128px.png using Guid(3dcb8cd2d44a6f649a53a238011ec757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78188609edf43658d302b92c5c906e56') in 0.062122 seconds
+  Import took 0.070580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_dirt_grass(summer)_128px.png
+  artifactKey: Guid(1b63bdb5079a21140a015e2f681f08bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_dirt_grass(summer)_128px.png using Guid(1b63bdb5079a21140a015e2f681f08bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9518532ba5b3d23bb15cdb2b4bd0a90') in 0.056330 seconds
+  Import took 0.064858 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_deco_plants02.png
+  artifactKey: Guid(07080ce0296c1aa48848753ed31eaef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_deco_plants02.png using Guid(07080ce0296c1aa48848753ed31eaef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17c0e87e0354ee4c268835683f8e936b') in 0.047072 seconds
+  Import took 0.056878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_red_128px.png
+  artifactKey: Guid(583d4840bcef7784a89ae576e0bf6e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_red_128px.png using Guid(583d4840bcef7784a89ae576e0bf6e92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fae5f8251916e967df816267b128372b') in 0.056485 seconds
+  Import took 0.066696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_dirt_grass(summer)_128px.png
+  artifactKey: Guid(db0899aac45d8d2409fd564aff578724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_dirt_grass(summer)_128px.png using Guid(db0899aac45d8d2409fd564aff578724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3179d1b35bfeea2562898751b8efa12') in 0.049214 seconds
+  Import took 0.058515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_gray_ice_128px.png
+  artifactKey: Guid(a83798d6108e7a6478a1e167722f3907) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_gray_ice_128px.png using Guid(a83798d6108e7a6478a1e167722f3907) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f4047814fe491d5971973ccdfda1f0f') in 0.062227 seconds
+  Import took 0.072655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001031 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_dirt_128px.png
+  artifactKey: Guid(53034c021f827d645aefda9c7c9a93e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_dirt_128px.png using Guid(53034c021f827d645aefda9c7c9a93e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9a53f9a5908b84a3272102095cccd70') in 0.058282 seconds
+  Import took 0.070381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_blue_128px.png
+  artifactKey: Guid(d718b799da5fb10439d1d4c84cbfb5ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_blue_128px.png using Guid(d718b799da5fb10439d1d4c84cbfb5ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d3150e082f48e3f6e25c7e049530aae') in 0.086277 seconds
+  Import took 0.092896 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_dirt_ice_128px.png
+  artifactKey: Guid(a827a969627574c4e9dfd96ff62b65c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_dirt_ice_128px.png using Guid(a827a969627574c4e9dfd96ff62b65c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55a019a75aecf537e9b857cfd17b50c4') in 0.037760 seconds
+  Import took 0.047320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_blue_128px.png
+  artifactKey: Guid(d718b799da5fb10439d1d4c84cbfb5ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_blue_128px.png using Guid(d718b799da5fb10439d1d4c84cbfb5ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d3150e082f48e3f6e25c7e049530aae') in 0.056565 seconds
+  Import took 0.066710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_dirt_grass(fall)_128px.png
+  artifactKey: Guid(acc5d9735413db84daf23370041fd5e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_dirt_grass(fall)_128px.png using Guid(acc5d9735413db84daf23370041fd5e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '704d09ba9b99a5930ace1776c1c8d02a') in 0.039502 seconds
+  Import took 0.050963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000421 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_dirt_grass(spring)_128px.png
+  artifactKey: Guid(6e93bb5a1c5e9b34fbde68b8897a27d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_dirt_grass(spring)_128px.png using Guid(6e93bb5a1c5e9b34fbde68b8897a27d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de6c7e995e612c00735eec898157b77a') in 0.026996 seconds
+  Import took 0.041617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_red_128px.png
+  artifactKey: Guid(ebbc8a7347a0db44c80e074e7d90ddd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_red_128px.png using Guid(ebbc8a7347a0db44c80e074e7d90ddd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '852261b350e75ca1917ab700d614169c') in 0.049730 seconds
+  Import took 0.057043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_wood02_128px.png
+  artifactKey: Guid(1151f1c2efd829e44bd3928a4a75b5df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_wood02_128px.png using Guid(1151f1c2efd829e44bd3928a4a75b5df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb7471b6a3ee4e76ed0f8c9423c01bee') in 0.053386 seconds
+  Import took 0.061091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000653 seconds.
+  path: Assets/Player/Player/Sprites/Humans/General/General.png
+  artifactKey: Guid(ffbb56c427bfa5344934e937190ee2e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Player/Sprites/Humans/General/General.png using Guid(ffbb56c427bfa5344934e937190ee2e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01d9478199e441b4f63be0245d670997') in 0.038724 seconds
+  Import took 0.046337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000488 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_wood01_128px.png
+  artifactKey: Guid(a5bb34aa5cc0e694fb21117e16dd74b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_wood01_128px.png using Guid(a5bb34aa5cc0e694fb21117e16dd74b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeda43620007e92da527c9bfcd4a7dee') in 0.068430 seconds
+  Import took 0.083246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Player/Player/Sprites/Humans/Ordinary/Ordinary.png
+  artifactKey: Guid(220d39c4bfd8a5f43897c04e5a02c406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Player/Sprites/Humans/Ordinary/Ordinary.png using Guid(220d39c4bfd8a5f43897c04e5a02c406) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daf9a867d11273686f92b8645c65ccb5') in 0.033700 seconds
+  Import took 0.043949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_wood02_128px.png
+  artifactKey: Guid(f7eb80f03116ca344bb79a3e820b7c24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_wood02_128px.png using Guid(f7eb80f03116ca344bb79a3e820b7c24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efd2d128a94452e899ecfdca732fd3da') in 0.061971 seconds
+  Import took 0.072854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_dirt_snow_128px.png
+  artifactKey: Guid(371b1c361e6872b4c9cc174ce9ffe526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_dirt_snow_128px.png using Guid(371b1c361e6872b4c9cc174ce9ffe526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '141de1c901fb48bc84b21e41bae41b0b') in 0.048261 seconds
+  Import took 0.057675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_gray_128px.png
+  artifactKey: Guid(cd52ce17ee0268b458a08b4b6e212346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_gray_128px.png using Guid(cd52ce17ee0268b458a08b4b6e212346) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '434dc77f74c0c931a938084407377165') in 0.065301 seconds
+  Import took 0.073981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000396 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_dirt_snow_128px.png
+  artifactKey: Guid(371b1c361e6872b4c9cc174ce9ffe526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_dirt_snow_128px.png using Guid(371b1c361e6872b4c9cc174ce9ffe526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '141de1c901fb48bc84b21e41bae41b0b') in 0.051326 seconds
+  Import took 0.062829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000449 seconds.
+  path: Assets/Tiles/TooCubeForest/images/nemo_sprite.png
+  artifactKey: Guid(bcf4b56957ea3584d8eda4043753a5e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/nemo_sprite.png using Guid(bcf4b56957ea3584d8eda4043753a5e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f84f74e7458c973a7cdb33030d6d71cb') in 0.051180 seconds
+  Import took 0.060439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000532 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_wood01_128px.png
+  artifactKey: Guid(96c11b0153c960243b1b1919a489f5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_wood01_128px.png using Guid(96c11b0153c960243b1b1919a489f5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b3a67086d694c111a480aa95f1c59dc') in 0.063542 seconds
+  Import took 0.071844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_gray_snow_128px.png
+  artifactKey: Guid(8a1334ba769a7fb4e810e8cf034fe925) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_gray_snow_128px.png using Guid(8a1334ba769a7fb4e810e8cf034fe925) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8fc98167962c75934ab5a38536901cd') in 0.052412 seconds
+  Import took 0.067832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000335 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_dirt_grass(fall)_128px.png
+  artifactKey: Guid(9dc18d9dbefddc44ebab3f88ec5da09c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_dirt_grass(fall)_128px.png using Guid(9dc18d9dbefddc44ebab3f88ec5da09c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d76f83db2c1b03db1c8c76f37f5cc52') in 0.075923 seconds
+  Import took 0.085648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_gray_snow_128px.png
+  artifactKey: Guid(8a1334ba769a7fb4e810e8cf034fe925) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/TooCubeForest/images/Forest_terrain_slope_gray_snow_128px.png using Guid(8a1334ba769a7fb4e810e8cf034fe925) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8fc98167962c75934ab5a38536901cd') in 0.047459 seconds
+  Import took 0.054855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Player/Player/Sprites/Tiles/TileSet128x128.png
+  artifactKey: Guid(f89c352719dfe534d97cd12e2f79bb7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Player/Sprites/Tiles/TileSet128x128.png using Guid(f89c352719dfe534d97cd12e2f79bb7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '509c4aace9e7c59e9785af860d15fb31') in 0.204876 seconds
+  Import took 0.213261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.625220 seconds.
+  path: Assets/Player/Player/Sprites/Tiles/TileSet256x256.png
+  artifactKey: Guid(1eeea13e3295bb14ea9d7ce270bd006c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Player/Sprites/Tiles/TileSet256x256.png using Guid(1eeea13e3295bb14ea9d7ce270bd006c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b88a215d3b501122dee909e8de0ad57') in 0.195326 seconds
+  Import took 0.204660 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.589142 seconds.
+  path: Assets/Player/Player/Sprites/Environments/Trees.png
+  artifactKey: Guid(bde9289b3cbcc5347aee97203b2ddf4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Player/Sprites/Environments/Trees.png using Guid(bde9289b3cbcc5347aee97203b2ddf4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5a3db702c54e33d82c490fccfa12c00') in 0.066305 seconds
+  Import took 0.074203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000367 seconds.
+  path: Assets/Player/Player/Sprites/Humans/General/WalkGeneralAnim.png
+  artifactKey: Guid(c8916a36d83f4ee43bf659967ba70d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Player/Sprites/Humans/General/WalkGeneralAnim.png using Guid(c8916a36d83f4ee43bf659967ba70d05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8697f3777d868b860e49834aab70adb') in 0.032314 seconds
+  Import took 0.039702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000395 seconds.
+  path: Assets/Player/Player/Sprites/Weapons/Weapons.png
+  artifactKey: Guid(2edfd0eb34e1fa349824f67025b135d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Player/Sprites/Weapons/Weapons.png using Guid(2edfd0eb34e1fa349824f67025b135d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66f81dbeaa9b605581a0be90f43d09cc') in 0.051359 seconds
+  Import took 0.060761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Player/Player/Sprites/Humans/General/YawnGeneralAnim.png
+  artifactKey: Guid(693dd52bfe272af469505f6777e3ae17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Player/Sprites/Humans/General/YawnGeneralAnim.png using Guid(693dd52bfe272af469505f6777e3ae17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7421f75f099435e0cf5c0fc1241bbf7') in 0.049591 seconds
+  Import took 0.059800 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Player/Player/Sprites/Humans/Ordinary/WalkOrdinaryAnim.png
+  artifactKey: Guid(0e33f7c8d367c3a4ea02ef59b6ee14dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Player/Sprites/Humans/Ordinary/WalkOrdinaryAnim.png using Guid(0e33f7c8d367c3a4ea02ef59b6ee14dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d1c0544bfc9f90833737083b6da4623') in 0.061573 seconds
+  Import took 0.071686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.097748 seconds.
+  path: Assets/Player/Player/Sprites/Humans/Ordinary/WalkOrdinaryAnim.png
+  artifactKey: Guid(0e33f7c8d367c3a4ea02ef59b6ee14dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Player/Sprites/Humans/Ordinary/WalkOrdinaryAnim.png using Guid(0e33f7c8d367c3a4ea02ef59b6ee14dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d1c0544bfc9f90833737083b6da4623') in 0.040331 seconds
+  Import took 0.053062 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.057181 seconds.
+  path: Assets/Player/Player/Sprites/Humans/Ordinary/YawnOrdinaryAnim.png
+  artifactKey: Guid(69c23997859b46f4a8c3fafbb015fa89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Player/Sprites/Humans/Ordinary/YawnOrdinaryAnim.png using Guid(69c23997859b46f4a8c3fafbb015fa89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd700b2e6b8b7211845a720b1a7899b26') in 0.053960 seconds
+  Import took 0.065811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000584 seconds.
+  path: Assets/Player/Player/Sprites/Environments/YellowHouse.png
+  artifactKey: Guid(2a3aca3106951644181682381bfc858a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Player/Sprites/Environments/YellowHouse.png using Guid(2a3aca3106951644181682381bfc858a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c66578f50fc0d5d22370c2eaadbf9e3e') in 0.045266 seconds
+  Import took 0.058909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000570 seconds.
+  path: Assets/Player/Player/Sprites/Humans/Ordinary/YawnOrdinaryAnim.png
+  artifactKey: Guid(69c23997859b46f4a8c3fafbb015fa89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Player/Sprites/Humans/Ordinary/YawnOrdinaryAnim.png using Guid(69c23997859b46f4a8c3fafbb015fa89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd700b2e6b8b7211845a720b1a7899b26') in 0.059217 seconds
+  Import took 0.072230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000397 seconds.
+  path: Assets/Player/Player/Sprites/Environments/YellowHouse.png
+  artifactKey: Guid(2a3aca3106951644181682381bfc858a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Player/Sprites/Environments/YellowHouse.png using Guid(2a3aca3106951644181682381bfc858a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c66578f50fc0d5d22370c2eaadbf9e3e') in 0.031744 seconds
+  Import took 0.040282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Player/Player/Sprites/Environments/YellowHouse_x2.png
+  artifactKey: Guid(81eaad4fc5f4ba042b5f2b9a5e060dcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Player/Player/Sprites/Environments/YellowHouse_x2.png using Guid(81eaad4fc5f4ba042b5f2b9a5e060dcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8959a8ee87921a0c7692cff17371c4d') in 0.027031 seconds
+  Import took 0.035459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 150.832815 seconds.
+  path: Assets/Coins/toletinis.png
+  artifactKey: Guid(72f46056de6f44b41a8acdf37a391eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Coins/toletinis.png using Guid(72f46056de6f44b41a8acdf37a391eec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ce86e9379d2d1c8e6cfb288942f787d') in 0.023452 seconds
+  Import took 0.031574 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004012 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.637 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 132.9 MB.
+System memory in use after: 133.0 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3700.
+Total: 7.985600 ms (FindLiveObjects: 0.636700 ms CreateObjectMapping: 0.333000 ms MarkObjects: 6.820300 ms  DeleteObjects: 0.193200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 550.499524 seconds.
+  path: Assets/Coins/pngtree-n95-mask-disposable-blue-mask-png-image_2157721.jpg
+  artifactKey: Guid(c9229921faf82e240a6e6db00600c32b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Coins/pngtree-n95-mask-disposable-blue-mask-png-image_2157721.jpg using Guid(c9229921faf82e240a6e6db00600c32b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb65880fdac59756e547b64b855bb667') in 0.111699 seconds
+  Import took 0.119152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.079867 seconds.
+  path: Assets/Coins/pngtree-n95-mask-disposable-blue-mask-png-image_2157721-removebg-preview.png
+  artifactKey: Guid(c46a8e1f77d391f46ab9486c9f642e6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Coins/pngtree-n95-mask-disposable-blue-mask-png-image_2157721-removebg-preview.png using Guid(c46a8e1f77d391f46ab9486c9f642e6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0379a6823ea2943d5f0702f994fa3eb2') in 0.020273 seconds
+  Import took 0.027138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1087.099696 seconds.
+  path: Assets/Vilans/2-removebg-preview.png
+  artifactKey: Guid(3597d98d00b5aeb408b98c9672ae937f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vilans/2-removebg-preview.png using Guid(3597d98d00b5aeb408b98c9672ae937f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d80ab50bb30bb5d3cd081a76008e2d9') in 0.025631 seconds
+  Import took 0.038613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.443724 seconds.
+  path: Assets/Vilans/2.png
+  artifactKey: Guid(3597d98d00b5aeb408b98c9672ae937f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vilans/2.png using Guid(3597d98d00b5aeb408b98c9672ae937f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '660425e9f2f52344d51a717571ccf4f1') in 0.021960 seconds
+  Import took 0.030653 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009598 seconds.
+  path: Assets/Vilans/2.png
+  artifactKey: Guid(3597d98d00b5aeb408b98c9672ae937f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Vilans/2.png using Guid(3597d98d00b5aeb408b98c9672ae937f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '660425e9f2f52344d51a717571ccf4f1') in 0.043341 seconds
+  Import took 0.053926 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.014188 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.95 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.588 seconds
+Platform modules already initialized, skipping
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Refreshing native plugins compatible for Editor in 0.74 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2971 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.7 MB.
+System memory in use after: 133.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 3706.
+Total: 4.426400 ms (FindLiveObjects: 0.644200 ms CreateObjectMapping: 0.309300 ms MarkObjects: 3.273800 ms  DeleteObjects: 0.197400 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
